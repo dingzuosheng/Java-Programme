@@ -1,0 +1,12 @@
+ID = 10 "red bibel" von Mao Zedongaus 1949 Spieldauer: 20 s
+
+ID = 1 "TestDaten" von TestDatenaus 2000 Spieldauer: 20 s
+
+ID = 3 "TestDaten" von TestDatenaus 2000 Spieldauer: 20 s
+
+ID = 5 "TestDaten" von TestDatenaus 2000 Spieldauer: 20 s
+
+ID = 7 "TestDaten" von TestDatenaus 2000 Spieldauer: 20 s
+
+ID = 9 "TestDaten" von TestDatenaus 2000 Spieldauer: 20 s
+

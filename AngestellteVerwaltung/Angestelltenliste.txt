@@ -1,0 +1,2 @@
+ID = 1"Wash Vero ist 60 Jahre alt und hat 3 Jahre im Fachbereich All. eine Ausbildung gemacht und verdient damit jedes Jahr 24000.0 Euro."
+ID = 0" Alexan Miguel ist 38 Jahre alt und hat 5 Jahre Ausbildung gemacht und arbeitet gerade als Chiro bzw. verdient jedes Jahr 66000.0 Euro."

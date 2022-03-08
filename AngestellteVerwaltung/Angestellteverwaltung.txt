@@ -1,0 +1,2 @@
+ID = 1"Washkowitz Vera ist 60 Jahre alt und hat 3 Jahre im Fachbereich Allgemein. eine Ausbildung gemacht und verdient damit jedes Jahr 36000.0 Euro."
+ID = 0" Alexander Miguel ist 38 Jahre alt und hat 5 Jahre Ausbildung gemacht und arbeitet gerade als Chiro bzw. verdient jedes Jahr 68000.0 Euro."

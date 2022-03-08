@@ -1,0 +1,24 @@
+ID = 0 "TestDaten" aufgenommen im Jahr 2000 in ort_b
+
+ID = 1 "TestDaten" von TestDatenaus 2000 Spieldauer: 20 s
+
+ID = 2 "TestDaten" aufgenommen im Jahr 2000 in ort_b
+
+ID = 3 "TestDaten" von TestDatenaus 2000 Spieldauer: 20 s
+
+ID = 4 "TestDaten" aufgenommen im Jahr 2000 in ort_b
+
+ID = 5 "TestDaten" von TestDatenaus 2000 Spieldauer: 20 s
+
+ID = 6 "TestDaten" aufgenommen im Jahr 2000 in ort_b
+
+ID = 7 "TestDaten" von TestDatenaus 2000 Spieldauer: 20 s
+
+ID = 8 "TestDaten" aufgenommen im Jahr 2000 in ort_b
+
+ID = 9 "TestDaten" von TestDatenaus 2000 Spieldauer: 20 s
+
+ID = 11 "Shasibia" aufgenommen im Jahr 2001 in Dortmund
+
+ID = 10 "Morgen ist sonnig" von Tasanaus 2018 Spieldauer: 2000 s
+

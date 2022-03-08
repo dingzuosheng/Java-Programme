@@ -1,0 +1,4 @@
+ID = 1 "Berg" aufgenommen im Jahr 1000 in China
+
+ID = 0 "Deine Zukunft" von Mao aus 2009 Spieldauer: 3000 s
+
